@@ -1,4 +1,9 @@
-# JDBC Implementation with PostgreSQL
+# Project Overview
+
+Each folder in this repository contains a different Java project. The first project demonstrates how to connect a Java application to a PostgreSQL database using JDBC, while the second project demonstrates a simple Jakarta EE servlet.
+
+
+# 1. JDBC Implementation with PostgreSQL
 
 ## Project Overview
 This project demonstrates how to connect a Java application to a PostgreSQL database using JDBC. It allows fetching and displaying data from the `users` table.
@@ -62,6 +67,35 @@ id   name    email
 ## Additional Notes
 - If you encounter issues, ensure PostgreSQL is running and your credentials are correct.
 - If `mvn` (Maven) is not installed, you can run the project without it by manually downloading dependencies.
+
+
+# 2. Servlet Java Implementation
+
+## Project Overview
+
+In this project, I created a simple Jakarta EE servlet using Maven to demonstrate basic server-side functionality. The servlet, named `HelloServlet`, handles HTTP GET requests and returns a simple HTML response.
+
+## Setup Instructions
+
+### 1. Create a Jakarta EE Project
+
+- Set up a Jakarta EE project with Maven in an IDE like IntelliJ or Eclipse.
+
+### 2. Implement the Servlet
+
+- Create the `HelloServlet` class, extending `HttpServlet`.
+- Use the `@WebServlet` annotation to map the servlet to a URL.
+- Implement the `doGet` method to return a basic HTML response.
+
+### 3. Deploy and Run the Servlet
+
+- Configure the `pom.xml` to include the necessary Jakarta EE dependencies.
+- Deploy the servlet to a server like Apache Tomcat.
+- Access the servlet via a web browser using the specified URL.
+
+## Expected Output
+
+When accessing the servlet via the browser, you should see a simple HTML page that says "Bonjour Yara Cham".
 
 
 **Author:** _Yara Cham_
