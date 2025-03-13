@@ -97,6 +97,16 @@ In this project, I created a simple Jakarta EE servlet using Maven to demonstrat
 
 When accessing the servlet via the browser, you should see a simple HTML page that says "Bonjour Yara Cham".
 
+# 3. Java RMI examples
+
+## Project Overview
+
+In this project you can find a Calculator, Garbage Collector, Bank Managing System and a customized Socket.
+
+## Setup Instructions
+
+You can run each project on it's own, and they can all be found in the folder TDRMI.
+
 
 **Author:** _Yara Cham_
 **Date:** _February 2025_
