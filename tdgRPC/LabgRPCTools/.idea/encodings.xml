@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/bom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/bom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/kotlin-lite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/kotlin-lite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/kotlin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/kotlin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/lite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/java/util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/ruby/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/ruby/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protobuf-25.2/protobuf-25.2/src" charset="UTF-8" />
+  </component>
+</project>
